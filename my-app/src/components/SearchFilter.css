@@ -1,0 +1,16 @@
+.search-filter {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .search-filter input {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  .search-filter select, .search-filter button {
+    padding: 10px;
+    margin-left: 10px;
+  }
+  
